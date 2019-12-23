@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="95px" viewBox="0 0 84 95" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="-" transform="translate(-902.000000, -494.000000)">
+            <g id="Group-4" transform="translate(902.000000, 494.000000)">
+                <circle id="Oval-Copy-24" fill="#2F4BE9" cx="42" cy="53" r="42"></circle>
+                <circle id="Oval-Copy-8" stroke="#FFFFFF" stroke-width="4" cx="42" cy="42" r="40"></circle>
+                <circle id="Oval-Copy-11" stroke="#FFFFFF" stroke-width="4" cx="24" cy="33" r="7"></circle>
+                <circle id="Oval-Copy-12" stroke="#FFFFFF" stroke-width="4" cx="59" cy="33" r="7"></circle>
+                <line x1="24.5" y1="61.5" x2="59.5" y2="61.5" id="Line" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>

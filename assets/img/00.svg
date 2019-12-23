@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="133px" viewBox="0 0 84 133" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Group 6</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="-" transform="translate(-1119.000000, -456.000000)">
+            <g id="Group-6" transform="translate(1119.000000, 458.000000)">
+                <circle id="Oval-Copy-26" fill="#2F4BE9" cx="42" cy="89" r="42"></circle>
+                <circle id="Oval-Copy-13" stroke="#FFFFFF" stroke-width="4" cx="42" cy="78" r="40"></circle>
+                <line x1="18" y1="63" x2="31" y2="76" id="Line-2" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></line>
+                <line x1="18" y1="63" x2="31" y2="76" id="Line-2" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" transform="translate(24.500000, 69.500000) scale(-1, 1) translate(-24.500000, -69.500000) "></line>
+                <line x1="54" y1="63" x2="67" y2="76" id="Line-2" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></line>
+                <line x1="54" y1="63" x2="67" y2="76" id="Line-2" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" transform="translate(60.500000, 69.500000) scale(-1, 1) translate(-60.500000, -69.500000) "></line>
+                <line x1="24.5" y1="97.5" x2="59.5" y2="97.5" id="Line-Copy-2" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></line>
+                <path d="M48.8022461,109 C52.1159546,109 54.8022461,106.313708 54.8022461,103 C54.8022461,101.418688 54.190516,99.9802525 53.1907938,98.9084327 C52.095555,97.7342077 50.5346422,97 48.8022461,97 C46.5931071,97 44.9923584,97 44,97 L44,109 L48.8022461,109 Z" id="Oval" stroke="#FFFFFF" stroke-width="4" transform="translate(49.401123, 103.000000) rotate(-270.000000) translate(-49.401123, -103.000000) "></path>
+                <circle id="Oval" stroke="#FFFFFF" stroke-width="3" cx="43" cy="30" r="6"></circle>
+                <circle id="Oval-Copy-16" stroke="#FFFFFF" stroke-width="3" cx="14" cy="114" r="6"></circle>
+                <circle id="Oval-Copy-17" stroke="#FFFFFF" stroke-width="3" cx="25" cy="120" r="6"></circle>
+                <circle id="Oval-Copy-18" stroke="#FFFFFF" stroke-width="3" cx="37" cy="123" r="6"></circle>
+                <circle id="Oval-Copy-19" stroke="#FFFFFF" stroke-width="3" cx="49" cy="123" r="6"></circle>
+                <circle id="Oval-Copy-20" stroke="#FFFFFF" stroke-width="3" cx="62" cy="120" r="6"></circle>
+                <circle id="Oval-Copy-21" stroke="#FFFFFF" stroke-width="3" cx="73" cy="114" r="6"></circle>
+                <circle id="Oval-Copy-14" stroke="#FFFFFF" stroke-width="3" cx="43" cy="18" r="6"></circle>
+                <circle id="Oval-Copy-15" stroke="#FFFFFF" stroke-width="3" cx="43" cy="6" r="6"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

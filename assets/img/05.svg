@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="85px" height="95px" viewBox="0 0 85 95" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="-" transform="translate(-672.000000, -494.000000)">
+            <g id="Group-2" transform="translate(672.000000, 494.000000)">
+                <circle id="Oval-Copy-22" fill="#2F4BE9" cx="42" cy="53" r="42"></circle>
+                <circle id="Oval-Copy-3" stroke="#FFFFFF" stroke-width="4" cx="43" cy="42" r="40"></circle>
+                <path d="M37,36 C37,29.372583 31.627417,24 25,24 C18.372583,24 13,29.372583 13,36" id="Oval-Copy-4" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></path>
+                <path d="M72,36 C72,29.372583 66.627417,24 60,24 C53.372583,24 48,29.372583 48,36" id="Oval-Copy-5" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></path>
+                <path d="M61,70 C61,60.0588745 52.9411255,52 43,52 C33.0588745,52 25,60.0588745 25,70" id="Oval-Copy-6" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" transform="translate(43.000000, 61.000000) scale(1, -1) translate(-43.000000, -61.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

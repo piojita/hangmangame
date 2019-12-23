@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+:hover{
+    transition: ease 0.3s;
+}
+
+:root{
+    --main-bg-color: #465fe9;
+    --main-font-color: white;
+    --primary-button-color: #FA704B;
+    --secondary-color: #FAF74B;
+    --fs-lg: 36px;
+    --fs-md: 18px;
+    --fs-sm: 16px;
+    --fs-xs: 14px;
+    
+}
+
+body {
+    background-color: var(--main-bg-color);
+    color: var(--main-font-color);
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+    display: grid;
+    grid-gap: 3em;
+    max-width: 800px;
+    margin: 0 auto;
+    height: 100vh;
+    justify-content: center;
+    align-content:center;
+    text-align: center;
+}
+
+.actions p{
+    font-size: var(--fs-md);
+    max-width: 80%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+.actions input{
+    padding: 20px;
+    max-width: 20px;
+    font-size: var(--fs-md);
+    color: var(--main-font-color);
+    text-align: center;
+    margin-bottom: 15px;
+    background:transparent;
+    border: 1px solid rgba(255, 255, 255, 0.637);
+}
+.actions label{
+    display: block;
+    opacity: 0.8;
+    margin-bottom: 30px;
+    font-size: var(--fs-xs);
+    font-weight: 100;
+    letter-spacing: 0.2px;
+}
+
+ul li{
+    display: inline-block; 
+    vertical-align: middle;
+    text-transform: uppercase;
+}
+ul{
+    margin-bottom: 15px;
+}
+ul.list li{
+    min-width: 30px;
+    min-height: 30px;
+    border-bottom: 1px solid rgb(255, 255, 255);
+    margin: 0 3px;
+
+}
+ul.alphabet {
+    max-width: 60%;
+    margin: 0 auto 30px;
+}
+ul.alphabet li{
+    min-width: 30px;
+    min-height: 30px;
+    border: 1px solid rgba(255, 255, 255, 0.76);
+    margin: 0 3px 15px;
+    line-height: 30px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+ul.alphabet li:hover{
+    background: #4b66ff;
+    transform: scale(110%);
+    border: 1px solid rgb(255, 255, 255);
+}
+
+a.btn{
+    background: var(--primary-button-color);
+    color: var(--main-font-color);
+    display: inline-block;
+    width: auto;
+    text-decoration: none;
+    padding: 15px 30px;
+    border-radius: 30px;
+    font-size: var(--fs-sm);
+}
+span.lives{
+    color: var(--secondary-color);
+    font-weight: 700;
+}
+span.hearts{
+    color:var(--secondary-color);
+}
+/* #guess{
+    display: none;
+} */

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="109px" height="124px" viewBox="0 0 109 124" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03" transform="translate(12.000000, 15.000000)">
+            <circle id="Oval-Copy-24" fill="#2F4BE9" fill-rule="nonzero" cx="42" cy="51" r="42"></circle>
+            <circle id="Oval-Copy-8" stroke="#FFFFFF" stroke-width="4" cx="42" cy="40" r="40"></circle>
+            <circle id="Oval-Copy-11" stroke="#FFFFFF" stroke-width="4" cx="24" cy="31" r="7"></circle>
+            <circle id="Oval-Copy-12" stroke="#FFFFFF" stroke-width="4" cx="59" cy="31" r="7"></circle>
+            <path d="M24.5,59.5 C29.4921875,55.0416667 35.3255208,52.8125 42,52.8125 C53.4830729,52.8125 59.5,59.5 59.5,59.5" id="Line" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>
